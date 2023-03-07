@@ -2,11 +2,6 @@
 
 The goal of our project is to built an application to visualize analyzed data of USA car accidents and predict the severity level of one car accident according to features like time, road, weather, etc.
 
-### Group Members: 
-Zifan Chen (zc2628)
-Meiyou Liu (ml4687)
-Yuxing Wang (yw3739)
-
 # Project Overview
 
 ### System Architecture
